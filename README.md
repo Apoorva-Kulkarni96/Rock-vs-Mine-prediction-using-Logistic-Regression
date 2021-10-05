@@ -1,8 +1,8 @@
-# Rock-vs-Mine-prediction-using-Logistic-Regression
+### Rock-vs-Mine-prediction-using-Logistic-Regression
 Submarines are used in war. Sometimes is important to detect the objects on or under surface of the water.  In this project, a system is built using sonar data to predict whether the signal received from an object is rock or mine.
 
 
-### Steps Involved
+#### Steps Involved
 
 1.Importing Libraries
 
@@ -20,8 +20,12 @@ Submarines are used in war. Sometimes is important to detect the objects on or u
 
 8.A Preditive System is build. In which individual row data is fed and model predicts where the object is rock and mine  
 
-### Tools used
+#### Tools used
 
 1. Numpy
 2. Pandas
 3. scikit leran
+
+#### Conclusion
+
+After evaluating model, we can infer that 76% the model predicts the right object.
